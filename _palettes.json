@@ -1,0 +1,74 @@
+{
+    "nextPaletteID": 4,
+    "palettes": {
+        "custom1": {
+            "id": "custom1",
+            "name": "Custom",
+            "colors": [
+                "#000000",
+                "#BBD9B4",
+                "#D2D3DD",
+                "#8D91C3",
+                "#B9BEDF",
+                "#98ADAF",
+                "#72A4A7",
+                "#70B1B7",
+                "#CCA8C4",
+                "#000000",
+                "#FFFFFF",
+                "#A4839F",
+                "#5C406c",
+                "#E5CDC4",
+                "#91463d",
+                "#000000"
+            ],
+            "custom": true
+        },
+        "custom2": {
+            "id": "custom2",
+            "name": "Custom",
+            "colors": [
+                "#000000",
+                "#A8D49F",
+                "#D2D3DD",
+                "#8D91C3",
+                "#B9BEDF",
+                "#98ADAF",
+                "#72A4A7",
+                "#70B1B7",
+                "#CCA8C4",
+                "#000000",
+                "#FFFFFF",
+                "#A4839F",
+                "#5C406c",
+                "#E5CDC4",
+                "#91463d",
+                "#000000"
+            ],
+            "custom": true
+        },
+        "custom3": {
+            "id": "custom3",
+            "name": "Custom",
+            "colors": [
+                "#000000",
+                "#A8D49F",
+                "#D2D3DD",
+                "#8D91C3",
+                "#B9BEDF",
+                "#98ADAF",
+                "#72A4A7",
+                "#70B1B7",
+                "#CCA8C4",
+                "#000000",
+                "#FFFFFF",
+                "#A4839F",
+                "#5C406c",
+                "#E5CDC4",
+                "#91463d",
+                "#89B181"
+            ],
+            "custom": true
+        }
+    }
+}
